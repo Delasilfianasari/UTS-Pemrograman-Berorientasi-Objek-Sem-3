@@ -1,9 +1,9 @@
 # UTS Pemrograman Berorientasi Objek
 
 ## Identitas
-- NIM: ISI_NIM_ANDA
-- Nama: ISI_NAMA_ANDA
-- Link GitHub: ISI_LINK_REPOSITORY_ANDA
+- NIM: SSI202500013
+- Nama: Dela Silfianasari
+- Link GitHub: (https://github.com/Delasilfianasari/UTS-Pemrograman-Berorientasi-Objek-Sem-3.git)
 
 ## Deskripsi
 Program Python berbasis OOP untuk membaca dan memproses `employee.json` serta `sensor_logs.json`.
@@ -26,20 +26,3 @@ Program Python berbasis OOP untuk membaca dan memproses `employee.json` serta `s
    - Status hasil rule dibandingkan dengan status yang tersimpan pada JSON.
 5. **Abstract class**: `Employee` dan `Sensor` menggunakan `ABC` serta `abstractmethod`.
 
-## Cara menjalankan
-Pastikan Python 3 sudah terpasang. Buka terminal pada folder proyek, lalu jalankan:
-
-```bash
-python main.py
-```
-
-Jika perintah tersebut tidak bekerja pada Windows, coba:
-
-```bash
-py main.py
-```
-
-File JSON harus berada dalam folder yang sama dengan `main.py`.
-
-## Catatan asumsi
-Soal menyediakan kode bonus tetapi tidak menjelaskan nilai persentase bonus. Program menggunakan asumsi yang ditulis di atas; sesuaikan jika dosen memberikan rule bonus khusus.
